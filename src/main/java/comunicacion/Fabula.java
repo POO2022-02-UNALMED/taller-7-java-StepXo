@@ -17,7 +17,7 @@ public class Fabula extends Escrito{
     }
 
     @Override
-    String interpretacion() {
+    public String interpretacion() {
         return getInterpretacion();
     }
 
